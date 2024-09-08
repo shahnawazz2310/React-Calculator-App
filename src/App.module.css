@@ -1,0 +1,24 @@
+.calculator{
+  border: 2px solid rgb(151, 151, 151);
+  border-radius: 10px;
+  width: 250px;
+  height: 400px;
+  border-radius: 8px;
+  background-color:sienna;
+  margin: 20px auto;
+  padding: 5px;
+  flex-wrap: wrap-reverse;
+}
+
+
+.head{
+  background-color: rgb(53, 37, 24);
+  color: rgb(243, 165, 165);
+  font-weight: 500;
+  margin: 10px 5px;
+  border: 2.5px solid black;
+  border-radius: 8px;
+  padding: 10px 10px;
+  text-align: center;
+
+}
