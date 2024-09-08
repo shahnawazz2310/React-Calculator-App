@@ -11,6 +11,6 @@ To run the project
 
 1. npm install
 
-   Then enter
+   Then enter the second command
    
 3. npm run dev
